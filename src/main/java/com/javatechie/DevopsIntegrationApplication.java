@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DevopsIntegrationApplication {
 
-	// this is comment
+	// this is comment2
 	@GetMapping
 	public String message(){
 		return "welcome to javatechie";
